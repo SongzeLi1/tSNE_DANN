@@ -1,5 +1,8 @@
-# DANN implementation reference from:  
+# Visualization results of distribution tSNE with added feature drawing
+
+## DANN implementation reference from:  
 https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA#citation
+
 
 ## Usage
 
